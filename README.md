@@ -2,4 +2,4 @@
 
 ## Name: Shubha Swamy
 ## Assignment Name: Version Control
-## Parner: Abbigail Nicholson
+## Partner: Abbigail Nicholson
